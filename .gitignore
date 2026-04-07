@@ -1,0 +1,28 @@
+# Build
+target/
+out/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# Logs
+*.log
+logs/
+
+# AI
+.qwen/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local Config
+*.env
+application-local.*
+*.keystore
